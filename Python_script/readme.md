@@ -1,9 +1,9 @@
-#Python script
+# Python script
 
-##Description
+## Description
 
 Python script associated to the medium tutorial
 
-##Contents
+## Contents
 
 Dimension reduction technique
